@@ -79,3 +79,7 @@ The uploaded origin-checked iframe bridge is retained. See [launcher integration
 - Lobby illustrations and game characters: original procedural artwork. Fortnite reference images were researched, not included in the distribution.
 
 Higgsfield artwork was requested, but the connected account rejected both submissions with “Requires basic plan or higher.” No images were generated and no paid alternative or subscription change was made. The shipped lobby uses original SVG/PNG artwork instead.
+
+## More browser games
+
+[Boost Circuit — Car Soccer](games/boost-circuit/README.md) is a separate original car-soccer game with bot matches, free play, training and its own hosted arena. [Play Boost Circuit](https://boost-circuit-arena.bobistheman2049.chatgpt.site).
